@@ -2,9 +2,11 @@
     --light-green: #8bb482;
     --dark-green: #253523;
     --item-grey: #95999b;
+    --background-grey: #d2d2d2;
 }
 body {
     color:var(--dark-green);
+    background-color: var(--background-grey);
 }
 
 p.slogan {
